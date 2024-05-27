@@ -1,0 +1,7 @@
+The Secure Software Development module was designed to provide me with a comprehensive understanding of the key principles and practices in creating secure software systems. This course covered essential topics such as secure coding techniques, software vulnerabilities, and the methodologies used to develop robust, secure applications.
+
+I learned about various types of software vulnerabilities, including buffer overflows, SQL injection, and cross-site scripting (XSS), and how to identify and mitigate these threats during the development process. The module also introduced the concept of secure software development lifecycle (SDLC), emphasizing the importance of integrating security practices at each stage of software development.
+
+A significant portion of the course focused on secure coding standards and best practices. I studied how to write code that is resistant to common attacks and how to use tools for static and dynamic code analysis to detect and fix security issues. Additionally, I explored the principles of threat modeling and security testing, including penetration testing and code reviews, to ensure the software is secure before deployment.
+
+The module also emphasized the importance of security policies and governance in software development. I learned about regulatory requirements, compliance standards, and how to develop and enforce security policies within a development team. Through case studies and practical exercises, I applied theoretical knowledge to real-world scenarios, enhancing my ability to develop secure software solutions.
